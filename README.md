@@ -1,2 +1,3 @@
 # JSMinesweeper
+CODE COMING SOON!
 A project from the JS + ReactJS Intensive I'm currently taking from codeacademy.
